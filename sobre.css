@@ -59,3 +59,17 @@ hr {
 h2{
 	font-size: 45px;
 }
+
+/* Tamanho padrão para computadores */
+.image {
+  width: 300px;
+  height: auto;
+}
+
+/* Para telas menores (celulares) */
+@media (max-width: 768px) {
+  .image {
+    width: 150px;
+    height: auto;
+  }
+}
