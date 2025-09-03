@@ -1,0 +1,61 @@
+body {
+   background-color: efddc9;
+}
+
+.topnav {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	height: 80px;
+	background-color: #ceb69c;
+}
+
+.topnav a {
+	font-size:30px;
+	color: #554738;
+	padding: 14px 20px;
+	text-decoration: none;
+	text-align: center;
+}
+
+.topnav a:hover {
+	color: #c1ac96;
+}
+
+.active {
+	color: white;
+}
+
+.topnav a {
+	font-family: 'Pirata One', cursive;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	font-family: 'Pirata One', cursive;
+	color: #554738;
+}
+
+h1 {
+	font-size: 80px;
+}
+
+hr {
+	border: none;
+	height: 4px;
+	background-color: #554738;
+	margin: 8px;
+}
+
+.container{
+	background-color: #ceb69c;
+	width:80%;
+	max-width:1200px;
+	margin:40px auto;
+	padding:20px;
+	box-shadow:0 0 10px rgba(0,0,0,0.1);
+	border-radius:8px;
+}
+
+h2{
+	font-size: 45px;
+}
