@@ -62,8 +62,8 @@ h2{
 
 /* Tamanho padrão para computadores */
 .image {
-  width: 300px;
-  height: auto;
+  width: 600px;
+  height: 400px;
 }
 
 /* Para telas menores (celulares) */
@@ -73,3 +73,4 @@ h2{
     height: auto;
   }
 }
+
