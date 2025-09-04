@@ -27,11 +27,11 @@ body {
 }
 
 .topnav a {
-	font-family: 'Pirata One', cursive;
+	font-family: 'Lato';
 }
 
 h1, h2, h3, h4, h5, h6, p {
-	font-family: 'Pirata One', cursive;
+	font-family: 'Lato';
 	color: #554738;
 }
 
@@ -73,5 +73,6 @@ h2{
     height: 250px;
   }
 }
+
 
 
