@@ -60,4 +60,17 @@ h2{
 	font-size: 30px;
 }
 
+.video {
+  width: 600px;
+  height: 400px;
+}
+
+/* Para telas menores (celulares) */
+@media (max-width: 768px) {
+  .video {
+    width: 300px;
+    height: 250px;
+  }
+}
+
 
