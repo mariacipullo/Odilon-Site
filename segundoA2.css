@@ -54,6 +54,8 @@ hr {
 	padding:20px;
 	box-shadow:0 0 10px rgba(0,0,0,0.1);
 	border-radius:8px;
+	align-items: center;
+	justify-content: center;
 }
 
 h2{
@@ -72,5 +74,13 @@ h2{
     height: 250px;
   }
 }
+
+.video-container video {
+	width: 60%;
+	max-width: 750px;
+	border-radius: 10px;
+	box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+	
 
 
